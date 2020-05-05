@@ -1,0 +1,143 @@
+/* #077187
+   #A997DF
+   #97DFFC
+   #FEEAFA
+   #EFD9CE */
+
+	
+   
+   html{
+
+   font-family: 'Nunito', sans-serif;
+
+   }
+
+
+   .title {
+
+   	text-transform:uppercase; 
+   	padding: 1em;
+
+   }
+
+   a{
+
+   	color:#d500f9; 
+
+   }
+
+   .container{
+  	
+   	background: #d9a7c7;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	width: 100vw;
+	align-items: center;
+
+	 
+   }
+
+   
+
+   .container img{
+
+   	position: relative;
+   	top: 200px;
+   	left: 50%;
+   	width: 1030px;
+   	height: 600px;
+   	bottom: 400px;
+   	margin-left: -540px;
+
+   }
+
+    .content {
+
+   	max-width: 950px;
+   	max-height: 500px;
+   	width: 100%;
+   	height: 100%;
+   	background-color: #FEEAFA;
+   	position: relative;
+   	top: -373px;
+   	left: 50%;
+   	width: 1000px;
+   	height: 500px;
+   	bottom: 350px;
+   	margin-left: -504px;
+   }
+
+   .prueba{
+
+   	text-transform:uppercase; 
+   	text-align-last: center;
+   	padding: 1em;
+
+
+   }
+   
+   .imagenPaginas img{
+
+   	position: relative;
+   	top: -15px;
+   	left: 50%;
+   	width: 1030px;
+   	
+   	margin-left: -540px;
+     
+
+
+   }
+  .text{
+
+
+  	max-width: 1030px;
+  	margin:0 auto;
+  	text-align: justify;
+
+
+
+
+
+  }
+   
+ .parra{
+
+  	line-height: 1.8em;
+  	font-weight: 200;
+ }
+
+ .table {
+
+ 	width: 100%;
+ 	border-spacing: 0;
+
+ }
+
+ .table td, .table th{
+
+ 	padding: 1em;
+ 	text-align: left;
+
+ }
+
+ .table  tr:nth-child(even){background-color: #A997DF;}
+
+
+ .table tr:nth-child(even) a {color: #fff;}
+
+ .table tr a {
+
+ 	text-decoration: none;
+
+ }
+ 
+
+ .fa-star, .fa-star-half-alt {
+
+ 	color: #ffc400;
+
+ }
+
+
+ 
